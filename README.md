@@ -5,6 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-Node.js-red?style=for-the-badge&logo=node.js)
 ![Discord](https://img.shields.io/discord/693891742914576504?color=7289da&label=discord&logo=discord&logoColor=white&style=for-the-badge)
 
+
 ## 🤔 Como eu adiciono ele no meu servidor.
 
 O bot em si oferece o link de convite para adição, mas, [aqui está o link](https://discord.com/api/oauth2/authorize?client_id=576823009713717249&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FpMQJrSN5Ma&response_type=code&scope=bot%20guilds%20email%20identify), vale lembrar que nós damos suporte total para quem adiocina o Arwey.
