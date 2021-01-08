@@ -1,5 +1,9 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Crucian" src="https://imgur.com/bMDYpjO.png">
 
 <h1 align="center">⭐ Arwey BOT ⭐</h1>
+
+![Language](https://img.shields.io/badge/Language-Node.js-red?style=for-the-badge&logo=node.js)
+![Discord](https://img.shields.io/discord/693891742914576504?color=7289da&label=discord&logo=discord&logoColor=white&style=for-the-badge)
 
 ## 🤔 Como eu adiciono ele no meu servidor.
 
