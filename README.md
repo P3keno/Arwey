@@ -23,3 +23,8 @@ Sinta-se á vontade para atualizar e dar suas críticas ao bot, utilizando a ár
 
 
 **Copyright - Arwey - Todos os direitos reservados, é proibido reprodução sem os devidos créditos.**
+
+<p align="center">
+  <a href="https://discord.gg/PfD7NbuZYP"><img src="https://img.shields.io/badge/Arwey%20Support%20Server%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/377174142149066785"><img src="https://img.shields.io/badge/Fellipe Oliveira%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
